@@ -119,7 +119,7 @@ These values are updated every frame through perception checks like distance tes
 
 The planner begins with a top-level decision and then selects a method that expands into a sequence of primitive tasks.
 
-![HTN Structure](images/Capture.png)
+![HTN Structure](images/Capture.PNG)
 
 The high-level behavior is:
 
